@@ -49,7 +49,7 @@ print("""\u001b[25A \033[2J
               '-\\   .,               .-`
                   '-:b~\\\\_,oddq==--'""")
 sleep(1)
-print("""\u001b[25A \033[2J
+print("""\u001b[50A \033[2J
                    _oo##'9MMHb':'-,o_
               .vM':HH$'    '''  '' -\\7*_
            .oHMMMHMH#9:          '\\bMMMMHo.
@@ -74,7 +74,7 @@ print("""\u001b[25A \033[2J
               ` .         .,         .-
                   '-.-~ooHH__,,v~--`""")
 sleep(1)
-print("""\u001b[25A \033[2J
+print("""\u001b[75A \033[2J
                    _,\\?dZkMHF&$*q#b..
               .//9MMMMMMM?:'HM\\\\'`-''`..
            ..`  :MMMMMMMMMMHMMMMH?_    `-\\
@@ -99,7 +99,7 @@ print("""\u001b[25A \033[2J
               ' .             ._     .-
                   '-. -voboo#&:,-.-`""")
 sleep(1)
-print("""\u001b[25A \033[2J
+print("""\u001b[100A \033[2J
                 _\\oo\\?ddk9MRbS>v\\_
               ..:>*''MMMMMMMMM:?|H?$?-.
            ..- -     'HMMMMMMMMMMHMMMH\\_-.
@@ -124,7 +124,7 @@ print("""\u001b[25A \033[2J
               ` .                .. ..-`
                   '-. .\\ooooboo<^.-`""")
 sleep(1)
-print("""\u001b[25A \033[2J
+print("""\u001b[125A \033[2J
                 _o\\:,??\\??MR9#cb\\_
               .v/''':&#''#HMMMMMMM$?*d\\.
            ..~' - -`      `'#MMMMMMMMMMMHv.
@@ -149,7 +149,7 @@ print("""\u001b[25A \033[2J
               '-..                  _.-
                   '---.._\\o,oov+--''""")
 sleep(1)
-print("""\u001b[25A \033[2J
+print("""\u001b[150A \033[2J
                   ,oc>?_:b?o?HH#b\\_
               .v/99*''' '*H#''*HMMMMMZ,_
             oH* /'   -   '      '`#MMMMM#o.
@@ -174,7 +174,7 @@ print("""\u001b[25A \033[2J
               ' .                    .-
                  ```^==\\_.,,,ov--\\-`""")
 sleep(1)
-print("""\u001b[25A \033[2J
+print("""\u001b[175A \033[2J
                  _,o#bH\\??::?o?cbo_
               .o#MH#**SH''' '`*H#'*#MHo_
             oHMMMH^  ^'    -  `      '*HHo.
@@ -199,7 +199,7 @@ print("""\u001b[25A \033[2J
                - .                  ..-
                   '`*#d##c.._\\v----`""")
 sleep(1)
-print("""\u001b[25A \033[2J
+print("""\u001b[200A \033[2J
                  _oo#H&d#b?\\b:_>>\\_
               .oHMMMMMMH*'*9R''-``*#P\\-_
             oHMMMMMMMMM$  .'       '   `^-
@@ -224,7 +224,7 @@ print("""\u001b[25A \033[2J
               ' .                    .-
                   '`*##HMH##:__,-.-`""")
 sleep(1)
-print("""\u001b[25A \033[2J       
+print("""\u001b[225A \033[2J       
                 _,dd#HMb&dHo?\\?:\\_
               .oHMMMMMMMMMMMH***9P'`'\\v.
             oHMMMMMMMMMMMMMMM>  `'      -.
@@ -249,7 +249,7 @@ print("""\u001b[25A \033[2J
               `  .                   .-
                   '`'#HHMMMMM#<>..-`""")
 sleep(1)
-print("""\u001b[25A \033[2J
+print("""\u001b[250A \033[2J
                  _,,>#b&HMHd&&bb>\\_
               _oHMMMMMMMMMMMMMMMMH**H:.
             oHMMMMMMMMMMMMMMMMMMMM#v`?  `.
@@ -274,7 +274,7 @@ print("""\u001b[25A \033[2J
               '- .                   .-`
                   '`\\bqHMMMMMMHHb--`""")
 sleep(1)
-print("""\u001b[25A \033[2J
+print("""\u001b[275A \033[2J
                  _,<_:&S6dHHHb&bb\\_
               .odHMMMMMMMMMMMMMMMMMMM}-_
            .oHMMMMMMMMMMMMMMMMMMMMMMMM#d:.
@@ -299,7 +299,7 @@ print("""\u001b[25A \033[2J
               ` .                    . `
                   '--##HH#HMMMHH#''`""")
 sleep(1)
-print("""\u001b[25A \033[2J
+print("""\u001b[300A \033[2J
                   .-:?,Z?:&$dHH##b\\_
                ,:bqRMMMMMMMMMMMMMMMMMHo.
             .?HHHMMMMMMMMMMMMMMMMMMMMMMMHo.
